@@ -744,3 +744,7 @@ If you have any question or suggestion, don't hesitate to use Gitter or Twitter:
 ## Author
 
 **[David Dias](https://github.com/thedaviddias)**
+
+[low_img]: https://front-end-checklist.now.sh/low.svg
+[medium_img]: https://front-end-checklist.now.sh/medium.svg
+[high_img]: https://front-end-checklist.now.sh/high.svg
